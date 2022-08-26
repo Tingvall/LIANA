@@ -1,3 +1,3 @@
-sample path
-Peak1 example_files/peaks1.bed
-Peak2 example_files/peaks2.bed
+sample	path
+Peak1	example_files/peaks1.bed
+Peak2	example_files/peaks2.bed
